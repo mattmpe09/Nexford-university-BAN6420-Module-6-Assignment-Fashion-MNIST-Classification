@@ -1,5 +1,4 @@
 # Nexford-university-BAN6420-Module-6-Assignment-Fashion-MNIST-Classification
-Module 6 Assignment: Fashion MNIST Classification
 
 ## GUIDE ON HOW THE CODE WORKS IN PYTHON
 ### STEP ONE: Import the necessary libraries
