@@ -3,6 +3,7 @@
 ## GUIDE ON HOW THE CODE WORKS IN PYTHON
 ### STEP ONE: Import the necessary libraries
 The libraries imported will handle the following
+
 •	NumPy, a library for numerical operations, is especially useful for handling arrays and matrices.
 •	Matplotlib's pyplot module for plotting graphs and visualizing data.
 •	Loads the Fashion MNIST dataset, which contains 70,000 grayscale images of clothing items (10 categories like shirts, shoes, etc.)
